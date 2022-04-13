@@ -1,5 +1,4 @@
-**XKCD Navigator
-**
+**XKCD Navigator**
 
 https://xkcd.com/ is a popular Geek webcomic created by Randall Munroe (https://en.wikipedia.org/wiki/Randall_Munroe)
 
