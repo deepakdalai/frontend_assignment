@@ -17,6 +17,8 @@ Display the
 
 6. Hovering / clicking on a comic should display the transcript / alt-text whereever available.
 Sample: https://xkcd.com/2043/
+
+JSON Request: https://xkcd.com/2043/info.0.json
 <img width="1435" alt="Screenshot 2022-04-13 at 10 29 44 AM" src="https://user-images.githubusercontent.com/13539319/163103660-bc613633-4c8a-4677-82f4-887edd1eba06.png">
 
 <img width="515" alt="Screenshot 2022-04-13 at 10 27 43 AM" src="https://user-images.githubusercontent.com/13539319/163103475-50c110f6-502f-4152-b05b-e6ea5199a84c.png">
